@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "9vPoz73H2QNf1q4jQnYPsq",
+    "name" : "Versioned_Folder3",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-08-01T19:47:01.554Z",
+  "objectRefs" : [ ]
+}
